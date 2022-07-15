@@ -1,5 +1,24 @@
-# brm-front-test
+# journal
 
-download the repository
+## Project setup
+```
+yarn install
+```
 
-at src and public level, open cmd and type npm i, by last run npm run serve. Enjoy!
+### Compiles and hot-reloads for development
+```
+yarn serve
+```
+
+### Compiles and minifies for production
+```
+yarn build
+```
+
+### Lints and fixes files
+```
+yarn lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
